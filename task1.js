@@ -19,3 +19,4 @@ appData.expenses[ask1] = ask2;
 appData.expenses[ask3] = ask4;
 
 alert(appData.budget / 30);
+alert("Good day!");
